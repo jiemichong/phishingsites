@@ -8,3 +8,6 @@ For our project, we decided to create a classifier that could detect if a given 
 To build the classifier, we built 5 models: Decision Trees, Random Forests, Logistic Regression, Artificial Neural Networks and K-nearest neighbours.
 
 We also did data preprocessing and PCA. To optimize the models, we used GridSearchCV.
+
+
+The dataset was taken from Kaggle: https://www.kaggle.com/shashwatwork/phishing-dataset-for-machine-learning
